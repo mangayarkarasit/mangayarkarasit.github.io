@@ -17,42 +17,37 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mangayarkarasit",
+        "url": "http://github.com/mangayarkarasit"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mangayarkarasi-t",
+        "url": "http://linkedin.com/in/mangayarkarasi-t"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Bigdata",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Hadoop",
+        "Spark"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Linux",
       "keywords": [
+        "Administration",
+        "Hardening"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cloud",
       "keywords": [
+        "AWS",
+        "Azure",
+        "GCE"
       ]
     }
   ],
